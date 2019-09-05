@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "202424679762",
+    "firebase_url": "https://slfood-cash.firebaseio.com",
+    "project_id": "slfood-cash",
+    "storage_bucket": "slfood-cash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202424679762:android:2e1303773757c361",
+        "android_client_info": {
+          "package_name": "com.example.slfood.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202424679762-gs5heg9145gkg07gidbn3hli83thekv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPZr_XL08AjhGcPiJL4Dlzo1PwsTAr3rQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202424679762:android:a57f0b04c3f85acb",
+        "android_client_info": {
+          "package_name": "com.zzamphong.slfood.zzamphong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202424679762-gs5heg9145gkg07gidbn3hli83thekv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPZr_XL08AjhGcPiJL4Dlzo1PwsTAr3rQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
